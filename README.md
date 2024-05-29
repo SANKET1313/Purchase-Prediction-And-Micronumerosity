@@ -1,1 +1,0 @@
-# Purchase-Prediction-And-Micronumerosity
